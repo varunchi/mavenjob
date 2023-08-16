@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome to everyone</title>
+<title>Welcome to everyone.</title>
 <style>
   body {
     background-color: yellow;
